@@ -17,4 +17,5 @@ Best "way to use" this as a bootstrapper is most likely through something like `
 
 ```sh
 degit https://github.com/Tythos/zig-wasm-vite.git
+git init . && git add -A && git commit -m "initial content commit"
 ```
