@@ -1,6 +1,6 @@
 # zig-wasm-vite
 
-"Live" (HMR) static site development using Vite with Zig-based WASM module as primary application source
+"Live" (HMR) static site development using Vite with Zig-based WASM module as primary application source.
 
 Tested with Zig 0.13.0; compile commands for direct WASM build target may be slightly different in other versions.
 
